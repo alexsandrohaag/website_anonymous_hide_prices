@@ -1,4 +1,4 @@
-qweb_anonymous_hide_prices
+website_anonymous_hide_prices
 ==========================
 
 Hide prices, quantity select and "add to cart" button if user is not authenticated.
